@@ -1,1 +1,4 @@
-My own attempt at Project Euler solutions.
+My own attempt at Project Euler solutions, typically in Clojure.
+
+java -jar clojure.jar
+user=> (load-file "src/[file].clj")
